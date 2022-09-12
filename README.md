@@ -1,4 +1,4 @@
-hello world
+hello world.
 I am a beginning coder, as I'm using JS/python 99% of the time.
 <!---
 secret.easter_egg.hidden
